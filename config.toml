@@ -1,4 +1,4 @@
-baseURL = "http://127.0.0.1:3001"
+baseURL = "https://mjhong0708.github.io"
 title = "Minjoon's codepark"
 theme = "hugo-clarity"
 
